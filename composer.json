@@ -1,0 +1,43 @@
+{
+  "name": "orchid/defender",
+  "description": "Blacklist and Whitelist",
+  "keywords": [
+    "framework",
+    "laravel",
+    "orchid",
+    "black list"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://theorchid.github.io/",
+  "support": {
+    "issues": "https://github.com/theOrchid/Platform/issues",
+    "source": "https://github.com/theOrchid/Platform"
+  },
+  "authors": [
+    {
+      "name": "Alexandr Chernyaev",
+      "email": "bliz48rus@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Orchid\\Defender\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    },
+    "laravel": {
+      "providers": [
+        "Orchid\\Defender\\Providers\\DefenderServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "alpha",
+  "prefer-stable": true
+}
