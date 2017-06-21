@@ -1,4 +1,4 @@
-# Orchid Alert
+# Orchid Defender
 [![Build Status](https://travis-ci.org/orchid/defender.svg?branch=master)](https://travis-ci.org/orchid/defender)
 [![Total Downloads](https://poser.pugx.org/orchid/defender/d/total.svg)](https://packagist.org/packages/orchid/defender)
 [![Latest Stable Version](https://poser.pugx.org/orchid/defender/v/stable.svg)](https://packagist.org/packages/orchid/defender)
