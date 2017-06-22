@@ -1,5 +1,5 @@
 # Orchid Defender
-[![Build Status](https://travis-ci.org/orchid/defender.svg?branch=master)](https://travis-ci.org/orchid/defender)
+[![Build Status](https://travis-ci.org/TheOrchid/Defender.svg?branch=master)](https://travis-ci.org/orchid/defender)
 [![Total Downloads](https://poser.pugx.org/orchid/defender/d/total.svg)](https://packagist.org/packages/orchid/defender)
 [![Latest Stable Version](https://poser.pugx.org/orchid/defender/v/stable.svg)](https://packagist.org/packages/orchid/defender)
 [![Latest Unstable Version](https://poser.pugx.org/orchid/defender/v/unstable.svg)](https://packagist.org/packages/orchid/defender)
