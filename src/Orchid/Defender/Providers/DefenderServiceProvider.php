@@ -6,7 +6,6 @@ use Illuminate\Support\ServiceProvider;
 use Orchid\Defender\Console\Scan;
 use Orchid\Defender\Middleware\Firewall;
 
-
 class DefenderServiceProvider extends ServiceProvider
 {
     /**
