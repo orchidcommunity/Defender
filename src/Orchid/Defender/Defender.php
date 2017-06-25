@@ -2,11 +2,6 @@
 
 namespace Orchid\Defender;
 
-/**
- * Class Defender.
- *
- * @category PHP
- */
 class Defender
 {
     /**

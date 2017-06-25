@@ -4,11 +4,6 @@ namespace Orchid\Defender;
 
 use Illuminate\Support\Facades\Storage;
 
-/**
- * Class Export.
- *
- * @category PHP
- */
 class Export
 {
     /**

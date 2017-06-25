@@ -5,11 +5,6 @@ namespace Orchid\Defender\Console;
 use Illuminate\Console\Command;
 use Orchid\Defender\Defender;
 
-/**
- * Class Scan.
- *
- * @category PHP
- */
 class Scan extends Command
 {
     /**

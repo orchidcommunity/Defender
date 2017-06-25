@@ -6,11 +6,7 @@ use Illuminate\Support\ServiceProvider;
 use Orchid\Defender\Console\Scan;
 use Orchid\Defender\Middleware\Firewall;
 
-/**
- * Class DefenderServiceProvider.
- *
- * @category PHP
- */
+
 class DefenderServiceProvider extends ServiceProvider
 {
     /**

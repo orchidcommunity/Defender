@@ -4,11 +4,6 @@ namespace Orchid\Defender\Middleware;
 
 use Closure;
 
-/**
- * Class Firewall.
- *
- * @category PHP
- */
 class Firewall
 {
     /**
