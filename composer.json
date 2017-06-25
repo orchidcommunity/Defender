@@ -23,9 +23,6 @@
     "phpunit/phpunit": "~5.7"
   },
   "autoload": {
-    "files": [
-      "src/Defender/Support/helpers.php"
-    ],
     "psr-4": {
       "Orchid\\": "src/Orchid"
     }
